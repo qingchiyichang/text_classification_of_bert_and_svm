@@ -1,0 +1,2 @@
+# text_classification_of_bert_and_svm
+对svm和bert原理的深入分析（包含svm的自主实现）和二者在文本分类这一任务上的各项对比
